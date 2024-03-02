@@ -110,8 +110,8 @@ export default function Home() {
         </a>
          
       </div>
-       <p
-             5 Most Favourite Support Tasks:
+       <p>
+     5 Most Favourite Support Tasks:
           Work with 3rd party partners to track down a tricky situation for a joint customer
           Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
           Dig through logs to troubleshoot a customer's broken project
@@ -125,7 +125,8 @@ export default function Home() {
           Write and maintain support articles and docs pages
           Analyze hundreds of support tickets to spot trends the product team can use
           Respond to 50+ support requests via email every day     
-          /p>
+       </p>
+            
     </main>
   );
 }
