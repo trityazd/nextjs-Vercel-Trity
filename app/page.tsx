@@ -6,7 +6,24 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
           Get started by editing &nbsp;                 
-        <code className="font-mono font-bold">app/page.tsx</code>
+        <code className="font-mono font-bold">app/page.tsx</code> <br></br>
+
+             
+     5 Most Favourite Support Tasks:
+          Work with 3rd party partners to track down a tricky situation for a joint customer
+          Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
+          Dig through logs to troubleshoot a customer's broken project
+          Help resolve billing issues for customers
+          Work with engineering teams during incidents and provide updates to internal and external stakeholders
+       
+
+          5 Least Support Tasks:
+          Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems
+          Dig through logs to troubleshoot a customer's broken project
+          Write and maintain support articles and docs pages
+          Analyze hundreds of support tickets to spot trends the product team can use
+          Respond to 50+ support requests via email every day     
+       
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
