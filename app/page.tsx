@@ -8,24 +8,38 @@ export default function Home() {
           Get started by editing &nbsp;                 
         <code className="font-mono font-bold">app/page.tsx</code><br></br>
           
-           5 Most Favourite Support Tasks:<br></br>
-          -Work with 3rd party partners to track down a tricky situation for a joint customer<br></br>
-          -Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel <br></br>
-          -Dig through logs to troubleshoot a customer's broken project<br></br>
+         5 Most Favourite Support Tasks:<br></br>
+          -Work with 3rd party partners to track down a tricky situation for a joint customer : 
+          I enjoy the problem solving part and team work that helps me collborate and learn new things from my peers  <br></br>
+          
+          -Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel - 
+          This helps me sharpen my stakeholder managment. As not two people are same also gives me confidence that I can handle task independently <br></br>
+          
+          -Dig through logs to troubleshoot a customer's broken project:
+          My analytical skills, technical & Problem solving skills help me here. <br></br>
+          
           -Help resolve billing issues for customers<br></br>
           -Work with engineering teams during incidents and provide updates to internal and external stakeholders<br></br>
        
-
-          5 Least Support Tasks:<br></br>
-          -Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems<br></br>
-          -Dig through logs to troubleshoot a customer's broken project<br></br>
+        5 Least Support Tasks:<br></br>
+          -Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
+          If not handled the right way this could lead to more confusion as there is scope for mis-information being shared<br></br>
+          
+          -Dig through logs to troubleshoot a customer's broken project:
+           If one does not know where or what to look for. Easy to get lost with the dump of info provided<br></br>
+          
           -Write and maintain support articles and docs pages<br></br>
+          Would like to do it as a side task - not something as a regular duty <br></br>
+          
           -Analyze hundreds of support tickets to spot trends the product team can use<br></br>
-          -Respond to 50+ support requests via email every day     
+          Again if one does not know what to look for can deviate easily from the main goal. <br></br>
+          
+          -Respond to 50+ support requests via email every day
+          Can get repetitive if the issues being raised are same and no challenging issue has been reported
       
         </p>
         
-    {/*    <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none"> 
+     <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none"> 
               <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -43,7 +57,7 @@ export default function Home() {
             />
           </a>
          
-        </div> */}
+        </div> 
       </div>
       
       {/*   <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]">
