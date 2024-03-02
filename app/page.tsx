@@ -5,10 +5,9 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p>
-          Get started by editing &nbsp;                 
-        <code className="font-mono font-bold">app/page.tsx</code><br></br>
           
-         5 Most Favourite Support Tasks:<br></br>
+          
+  <code className="font-mono font-bold">       5 Most Favourite Support Tasks: </code><br></br>
           -Work with 3rd party partners to track down a tricky situation for a joint customer : 
           I enjoy the problem solving part and team work that helps me collborate and learn new things from my peers  <br></br>
           
