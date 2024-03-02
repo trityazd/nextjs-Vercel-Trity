@@ -19,7 +19,7 @@ export default function Home() {
           My analytical skills, technical & Problem solving skills help me here. <br></br>
           
           -Help resolve billing issues for customers<br></br>
-          -Work with engineering teams during incidents and provide updates to internal and external stakeholders<br></br>
+          -Work with engineering teams during incidents and provide updates to internal and external stakeholders<br></br><br></br>
        
         5 Least Support Tasks:<br></br>
           -Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
@@ -34,7 +34,7 @@ export default function Home() {
           -Analyze hundreds of support tickets to spot trends the product team can use<br></br>
           Again if one does not know what to look for can deviate easily from the main goal. <br></br>
           
-          -Respond to 50+ support requests via email every day
+          -Respond to 50+ support requests via email every day <br></br>
           Can get repetitive if the issues being raised are same and no challenging issue has been reported
       
         </p>
