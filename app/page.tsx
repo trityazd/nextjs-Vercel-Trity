@@ -6,7 +6,7 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p>
           Get started by editing &nbsp;                 
-        <code className="font-mono font-bold">app/page.tsx</code> <br></br>
+        <code className="font-mono font-bold">app/page.tsx</code>
            5 Most Favourite Support Tasks:
           Work with 3rd party partners to track down a tricky situation for a joint customer
           Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
