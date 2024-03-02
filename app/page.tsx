@@ -29,7 +29,22 @@ export default function Home() {
          
         </div>
       </div>
+<p>  5 Most Favourite Support Tasks:
+          Work with 3rd party partners to track down a tricky situation for a joint customer
+          Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
+          Dig through logs to troubleshoot a customer's broken project
+          Help resolve billing issues for customers
+          Work with engineering teams during incidents and provide updates to internal and external stakeholders
+       
 
+          5 Least Support Tasks:
+          Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems
+          Dig through logs to troubleshoot a customer's broken project
+          Write and maintain support articles and docs pages
+          Analyze hundreds of support tickets to spot trends the product team can use
+          Respond to 50+ support requests via email every day     
+</p>
+      
       <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]">
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
