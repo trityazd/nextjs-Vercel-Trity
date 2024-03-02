@@ -6,24 +6,25 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p>
           Get started by editing &nbsp;                 
-        <code className="font-mono font-bold">app/page.tsx</code>
+        <code className="font-mono font-bold">app/page.tsx</code><br></br>
+          
            5 Most Favourite Support Tasks:
-          Work with 3rd party partners to track down a tricky situation for a joint customer
-          Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
-          Dig through logs to troubleshoot a customer's broken project
-          Help resolve billing issues for customers
-          Work with engineering teams during incidents and provide updates to internal and external stakeholders
+          -Work with 3rd party partners to track down a tricky situation for a joint customer
+          -Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
+          -Dig through logs to troubleshoot a customer's broken project
+          -Help resolve billing issues for customers
+          -Work with engineering teams during incidents and provide updates to internal and external stakeholders
        
 
           5 Least Support Tasks:
-          Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems
-          Dig through logs to troubleshoot a customer's broken project
-          Write and maintain support articles and docs pages
-          Analyze hundreds of support tickets to spot trends the product team can use
-          Respond to 50+ support requests via email every day     
+          -Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems
+          -Dig through logs to troubleshoot a customer's broken project
+          -Write and maintain support articles and docs pages
+          -Analyze hundreds of support tickets to spot trends the product team can use
+          -Respond to 50+ support requests via email every day     
       
         </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
+     /*   <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -124,7 +125,7 @@ export default function Home() {
           </p>
         </a>
          
-      </div>
+      </div> */
                 
     </main>
   );
