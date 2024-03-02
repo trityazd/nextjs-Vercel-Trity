@@ -21,8 +21,7 @@ export default function Home() {
           Write and maintain support articles and docs pages
           Analyze hundreds of support tickets to spot trends the product team can use
           Respond to 50+ support requests via email every day     
-
-        
+      
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
