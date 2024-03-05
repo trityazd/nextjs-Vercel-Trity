@@ -7,33 +7,53 @@ export default function Home() {
         <p>
           
           
-  <code className="font-mono font-bold">       5 Most Favourite Support Tasks: </code><br></br>
-          -Work with 3rd party partners to track down a tricky situation for a joint customer : 
-          I enjoy the problem solving part and team work that helps me collborate and learn new things from my peers  <br></br>
+  <code className="font-mono font-bold"> 5 Most Favourite Support Tasks: </code><br></br>
+1.Work with 3rd party partners to track down a tricky situation for a joint customer :
+I enjoy the problem-solving part and teamwork that helps me collaborate and learn new things from my peers  <br></br>
           
-          -Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel - 
-          This helps me sharpen my stakeholder managment. As not two people are same also gives me confidence that I can handle task independently <br></br>
+2.Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel -
+This helps me sharpen my stakeholder management. As not two people are the same also gives me confidence that I can handle tasks independently <br></br>
           
-          -Dig through logs to troubleshoot a customer's broken project:
-          My analytical skills, technical & Problem solving skills help me here. <br></br>
+3.Dig through logs to troubleshoot a customer's broken project:
+My analytical skills, technical & Problem-solving skills help me here<br></br>
           
-          -Help resolve billing issues for customers<br></br>
-          -Work with engineering teams during incidents and provide updates to internal and external stakeholders<br></br><br></br>
-       
-   <code className="font-mono font-bold">        5 Least Support Tasks: </code>    <br></br> 
-          -Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
+4.Help resolve billing issues for customers<br></br>
+-Work with engineering teams during incidents and provide updates to internal and external stakeholder<br></br>
+
+5.Help train and onboard new support teammates<br></br>
+I get to pass on the knowledge to my peers which would benefit the team in terms our productivity and also get to know and gel with the new commers onboad.        
+
+
+  <code className="font-mono font-bold">5 least favourite support tasks.: </code><br></br>
+          1.Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
           If not handled the right way this could lead to more confusion as there is scope for mis-information being shared<br></br>
           
-          -Dig through logs to troubleshoot a customer's broken project:
+          2.Dig through logs to troubleshoot a customer's broken project:
            If one does not know where or what to look for. Easy to get lost with the dump of info provided<br></br>
           
-          -Write and maintain support articles and docs pages<br></br>
+          3.Write and maintain support articles and docs pages<br></br>
           Would like to do it as a side task - not something as a regular duty <br></br>
           
-          -Analyze hundreds of support tickets to spot trends the product team can use<br></br>
+          4.Analyze hundreds of support tickets to spot trends the product team can use<br></br>
           Again if one does not know what to look for can deviate easily from the main goal. <br></br>
           
-          -Respond to 50+ support requests via email every day <br></br>
+          5.Respond to 50+ support requests via email every day <br></br>
+          Can get repetitive if the issues being raised are same and no challenging issue has been reported          
+       
+   <code className="font-mono font-bold">        5 Least Support Tasks: </code>    <br></br> 
+          1.Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
+          If not handled the right way this could lead to more confusion as there is scope for mis-information being shared<br></br>
+          
+          2.Dig through logs to troubleshoot a customer's broken project:
+           If one does not know where or what to look for. Easy to get lost with the dump of info provided<br></br>
+          
+          3.Write and maintain support articles and docs pages<br></br>
+          Would like to do it as a side task - not something as a regular duty <br></br>
+          
+          4.Analyze hundreds of support tickets to spot trends the product team can use<br></br>
+          Again if one does not know what to look for can deviate easily from the main goal. <br></br>
+          
+          5.Respond to 50+ support requests via email every day <br></br>
           Can get repetitive if the issues being raised are same and no challenging issue has been reported
       
         </p>
