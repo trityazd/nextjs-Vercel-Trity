@@ -38,22 +38,6 @@ I get to pass on the knowledge to my peers which would benefit the team in terms
           Again if one does not know what to look for can deviate easily from the main goal. <br></br>
           
           5.Respond to 50+ support requests via email every day <br></br>
-          Can get repetitive if the issues being raised are same and no challenging issue has been reported          
-       
-   <code className="font-mono font-bold">        5 Least Support Tasks: </code>    <br></br> 
-          1.Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems:
-          If not handled the right way this could lead to more confusion as there is scope for mis-information being shared<br></br>
-          
-          2.Dig through logs to troubleshoot a customer's broken project:
-           If one does not know where or what to look for. Easy to get lost with the dump of info provided<br></br>
-          
-          3.Write and maintain support articles and docs pages<br></br>
-          Would like to do it as a side task - not something as a regular duty <br></br>
-          
-          4.Analyze hundreds of support tickets to spot trends the product team can use<br></br>
-          Again if one does not know what to look for can deviate easily from the main goal. <br></br>
-          
-          5.Respond to 50+ support requests via email every day <br></br>
           Can get repetitive if the issues being raised are same and no challenging issue has been reported
       
         </p>
