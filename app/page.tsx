@@ -21,7 +21,7 @@ My analytical skills, technical & Problem-solving skills help me here<br></br>
 -Work with engineering teams during incidents and provide updates to internal and external stakeholder<br></br>
 
 5.Help train and onboard new support teammates<br></br>
-I get to pass on the knowledge to my peers which would benefit the team in terms our productivity and also get to know and gel with the new commers onboad.        
+I get to pass on the knowledge to my peers which would benefit the team in terms our productivity and also get to know and gel with the new commers onboad <br></br><br></br>
 
 
   <code className="font-mono font-bold">5 least favourite support tasks.: </code><br></br>
